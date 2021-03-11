@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../homework/homework.iml" filepath="$PROJECT_DIR$/../homework/homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javabasic01.iml" filepath="$PROJECT_DIR$/javabasic01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../javabasic02_input/javabasic02_input.iml" filepath="$PROJECT_DIR$/../javabasic02_input/javabasic02_input.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../javabasic03_controflow/javabasic03_controflow.iml" filepath="$PROJECT_DIR$/../javabasic03_controflow/javabasic03_controflow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../javabasic04_array/javabasic04_array.iml" filepath="$PROJECT_DIR$/../javabasic04_array/javabasic04_array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../javabasic05_oop/javabasic05_oop.iml" filepath="$PROJECT_DIR$/../javabasic05_oop/javabasic05_oop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../javabasic06_oop2/javabasic06_oop2.iml" filepath="$PROJECT_DIR$/../javabasic06_oop2/javabasic06_oop2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../javabasic07_oop3/javabasic07_oop3.iml" filepath="$PROJECT_DIR$/../javabasic07_oop3/javabasic07_oop3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../practices/practices.iml" filepath="$PROJECT_DIR$/../practices/practices.iml" />
+    </modules>
+  </component>
+</project>
